@@ -1,3 +1,4 @@
 "// Contribution by Maya: Book class implemented" 
 "// Contribution by Obada: DVD class implemented" 
 "// Contribution by Raghad S.: Magazine class implemented" 
+"// Contribution by Maryam: LibraryItem abstract class implemented" 
