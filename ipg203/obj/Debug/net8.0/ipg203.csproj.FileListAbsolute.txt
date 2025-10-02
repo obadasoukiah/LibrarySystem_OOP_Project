@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\ipg203\bin\Debug\net8.0\ipg203.exe
+C:\Users\danie\source\repos\ipg203\bin\Debug\net8.0\ipg203.deps.json
+C:\Users\danie\source\repos\ipg203\bin\Debug\net8.0\ipg203.runtimeconfig.json
+C:\Users\danie\source\repos\ipg203\bin\Debug\net8.0\ipg203.dll
+C:\Users\danie\source\repos\ipg203\bin\Debug\net8.0\ipg203.pdb
+C:\Users\danie\source\repos\ipg203\obj\Debug\net8.0\ipg203.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\ipg203\obj\Debug\net8.0\ipg203.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ipg203\obj\Debug\net8.0\ipg203.AssemblyInfo.cs
+C:\Users\danie\source\repos\ipg203\obj\Debug\net8.0\ipg203.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ipg203\obj\Debug\net8.0\ipg203.dll
+C:\Users\danie\source\repos\ipg203\obj\Debug\net8.0\refint\ipg203.dll
+C:\Users\danie\source\repos\ipg203\obj\Debug\net8.0\ipg203.pdb
+C:\Users\danie\source\repos\ipg203\obj\Debug\net8.0\ipg203.genruntimeconfig.cache
+C:\Users\danie\source\repos\ipg203\obj\Debug\net8.0\ref\ipg203.dll
