@@ -3,3 +3,4 @@
 "// Contribution by Raghad S.: Magazine class implemented" 
 "// Contribution by Maryam: LibraryItem abstract class implemented" 
 "// Contribution by Raghad W.: LibraryCatalog class implemented" 
+"// Contribution by Raghad W.: LibraryCatalog class implemented" 
